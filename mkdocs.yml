@@ -1,0 +1,8 @@
+site_name: "docs-test"
+site_description: "docs demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
